@@ -1,0 +1,13 @@
+{
+    "mysql": {
+        "db_dobleJ_prod": {
+            "host": "doblej-restaurado.ccffs1c8f6p9.us-east-2.rds.amazonaws.com",
+            "port": 3306,
+            "user": "admin",
+            "password": "lanek2023",
+            "container": "db_dobleJ",
+            "exposed_port": 3307,
+            "migration_date": "2026-01-30T17:41:24.677281"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: migrate-new-database
+Version: 1.0.0
+Requires-Dist: pyyaml
+Requires-Dist: inquirer
+Requires-Dist: pymysql
+Requires-Dist: psycopg2-binary
+Requires-Dist: docker
+Dynamic: requires-dist

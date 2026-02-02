@@ -1,0 +1,8 @@
+migrate.py
+setup.py
+migrate_new_database.egg-info/PKG-INFO
+migrate_new_database.egg-info/SOURCES.txt
+migrate_new_database.egg-info/dependency_links.txt
+migrate_new_database.egg-info/entry_points.txt
+migrate_new_database.egg-info/requires.txt
+migrate_new_database.egg-info/top_level.txt
